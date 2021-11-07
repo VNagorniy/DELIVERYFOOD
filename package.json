@@ -1,0 +1,25 @@
+{
+  "name": "DELIVERYFOOD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack --mode=production",
+    "watch": "webpack --watch --mode=development" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VNagorniy/DELIVERYFOOD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VNagorniy/DELIVERYFOOD/issues"
+  },
+  "homepage": "https://github.com/VNagorniy/DELIVERYFOOD#readme",
+  "devDependencies": {
+    "webpack": "^5.62.1",
+    "webpack-cli": "^4.9.1"
+  }
+}
